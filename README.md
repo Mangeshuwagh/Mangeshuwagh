@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mangeshuwagh
-- 👀 I’m interested in Qality Assurance 
-- 🌱 I’m currently learning ... Manual testing & Java
+- 👋 Hi, I’m Mangesh Wagh
+- 👀 I’m interested in Java Developer and QA
+- 🌱 I’m currently learning ... Java FullStack Dev & FrontEnd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
