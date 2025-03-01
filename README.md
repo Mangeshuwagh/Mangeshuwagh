@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mangesh Wagh
 - 👀 I’m interested in Java Developer and QA
-- 🌱 I’m currently learning ... Java FullStack Dev & FrontEnd
+- 🌱 I’m currently learning ... Java FullStack Dev & FrontEnd. Giri's Tech HUB Pune Prv, Ltd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
